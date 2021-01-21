@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/jwt-✓-blue.svg)
 ![](https://img.shields.io/badge/swagger_2-✓-blue.svg)
 
-You can find a related post for this repository [here](https://medium.com/@xoor/jwt-authentication-service-44658409e12c).
 
 ***
 
